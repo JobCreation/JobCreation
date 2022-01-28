@@ -15,7 +15,7 @@
 
 <h3 align="left">언어 및 도구:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://mariadb. 조직/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" 너비="40" 높이 ="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="파이썬" 너비="40" 높이="40"/> </a> </p>
-![Spring](https://img.shields.io/badge/-**.NET**-**512BD4**?style=flat&logo=**.NET**)
+<p><img src="https://img.shields.io/badge/-Python-007396?style=flat&logo=Python"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobcreation&show_icons=true&locale=en&layout=compact" alt="jobcreation" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobcreation&" alt="jobcreation" /></p>
