@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요 👋, 저는 박승우입니다.</h1>
-<h3 align="center">인도의 열정적인 프론트엔드 개발자</h3>
+<h1 align="center">안녕하세요 👋, 혼합현실 기술 전수자 창직자 박승우입니다.</h1>
+<h3 align="center">사회혁신을 위한 배려 </h3>
 
 <p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jobcreation" alt="jobcreation" / ></a> </p>
 
